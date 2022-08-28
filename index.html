@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Live Chat Application</title>
+    <script  src="http://localhost:8000/socket.io/socket.io.js"></script>
+    <script  src="js/client.js"></script>
+    <link rel="stylesheet" href="css/style1.css">
+</head>
+
+<body>
+    <nav class="head">
+        <h1>Welcome to live Chat </h1>
+    </nav>
+    <div class="container">
+        <div class="message left"> Hello I am Left</div>
+        <div class="message right">Hello I am Right</div>
+    </div>
+    <div class="Send">
+        <form action="submit" id="send-msg"></form>
+        <input type="text" class="msg-inp">
+        <button>Send</button>
+    </div>
+
+</body>
+
+</html>
