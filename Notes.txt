@@ -3,4 +3,4 @@
 steps to install nodemodules
 step1: open that path into powershell where your project is there
 step2: Type command [npm install init] after that simply click on right right till completion
-step3: Install Socket by typing command [npm install Socket.io]
+3) After that  Install Socket by typing command [npm install Socket.io]
