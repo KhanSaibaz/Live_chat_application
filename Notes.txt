@@ -1,0 +1,6 @@
+1) Install latest version of Node js
+2) Install Nodemodule in your devices
+steps to install nodemodules
+step1: open that path into powershell where your project is there
+step2: Type command [npm install init] after that simply click on right right till completion
+step3: Install Socket by typing command [npm install Socket.io]
